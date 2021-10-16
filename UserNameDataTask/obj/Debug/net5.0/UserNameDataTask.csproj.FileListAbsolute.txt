@@ -1,0 +1,16 @@
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.csproj.AssemblyReference.cache
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.AssemblyInfoInputs.cache
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.AssemblyInfo.cs
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.exe
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.deps.json
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.runtimeconfig.json
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.runtimeconfig.dev.json
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.dll
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\bin\Debug\net5.0\ref\UserNameDataTask.dll
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.pdb
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.dll
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\obj\Debug\net5.0\ref\UserNameDataTask.dll
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.pdb
+C:\Users\diana\Desktop\Programmeerimise alused\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.genruntimeconfig.cache
